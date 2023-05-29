@@ -1,7 +1,7 @@
 # ali_save_k8s_230529
 ali_save_k8s_230529  包括其他相关的开源软件文件夹     /mnt/vdb1/fth/software
 
-git@github.com:tianhao909/ali_save_k8s_230529.git
+git remote add origin git@github.com:tianhao909/ali_save_k8s_230529.git
 
 
 git push -u origin master
